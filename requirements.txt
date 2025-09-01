@@ -1,0 +1,3 @@
+# Requirements for Nexus Enrollment System
+# No external dependencies required for basic functionality
+# Using only Python standard library for simplicity
